@@ -6,7 +6,7 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "doc:deploy": "gh-pages -d docs/dist",
+    "docs:deploy": "gh-pages -d docs/dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

@@ -6,7 +6,7 @@ heroImage: /utils.jpg
 # 按钮文本
 actionText: 立即上车 →
 # 按钮点击跳转路径
-actionLink: /javascript/01_工具函数库说明
+actionLink: /javascript/01_创建工具包项目
 
 features: 
 - title: 技术提升
