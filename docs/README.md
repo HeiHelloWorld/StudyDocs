@@ -2,11 +2,11 @@
 #首页
 home: true  
 # 图标
-heroImage: /utils.jpg
+heroImage: /202.png
 # 按钮文本
 actionText: 立即上车 →
 # 按钮点击跳转路径
-actionLink: /javascript/01_创建工具包项目
+actionLink: /web/javascript/01_start
 
 features: 
 - title: 技术提升
@@ -15,4 +15,5 @@ features:
   details: 中大厂面试问得最多是什么？答：原生JS的理解和编码，咱们这套课程就是为此设计的。
 - title: 扩展能力
   details: 如何创建自己的npm工具库？如何快速搭建在线技术或文档站点？我们给你最精简的答案。
+footer: MIT Licensed | Copyright © 2021-present Evan You
 ---
